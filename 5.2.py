@@ -6,4 +6,3 @@ oct1, oct2, oct3, oct4, mask = address
 print(f'''
 Network:
 {oct1:<8} '''
-      123
