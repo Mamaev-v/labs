@@ -11,7 +11,7 @@ london_co = {
         "vendor": "Cisco",
         "model": "4451",
         "ios": "15.4",
-        "ip": "10.255.0.2"
+        "ip": "10.255.0.1"
     },
     "sw1": {
         "location": "21 New Globe Walk",
